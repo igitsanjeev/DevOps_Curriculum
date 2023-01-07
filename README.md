@@ -174,4 +174,4 @@ If you think the curriculum can be improved, please do open a PR with any update
 
 ## Authors
 
-- [Sanjeev Kumar].
+- Sanjeev Kumar
