@@ -2,7 +2,7 @@
 
 This is a step by step guide on how to become a DevOps engineer, with links to relevant learning resources.
 
-![DevOps Curriculum](devops%20tools.png)
+![DevOps Curriculum](devops tools.png)
 
 ## Disclaimer
 
@@ -12,15 +12,15 @@ This is a step by step guide on how to become a DevOps engineer, with links to r
 
 If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
-![DevOps Curriculum](DevOps%20Curriculum.png)
+![DevOps Curriculum](DevOps Curriculum.png)
 
-Download [Version without background](DevOps%20Curriculum%20No%20Background.png).
+Download [Version without background](DevOps Curriculum No Background.png).
 
 ## PDF version
 
-[![DevOps Curriculum](pdfversion.png)](DevOps%20Curriculum.pdf)
+[![DevOps Curriculum](pdfversion.png)](DevOps Curriculum.pdf)
 
-Download [PDF version](DevOps%20Curriculum.pdf).
+Download [PDF version](DevOps Curriculum.pdf).
 
 ## Learning resources for DevOps Engineers (mostly free)
 
@@ -166,7 +166,6 @@ If you think the curriculum can be improved, please do open a PR with any update
 
 - Open a pull request with improvements
 - Discuss ideas in issues
-- Spread the word
 
 ## License
 
