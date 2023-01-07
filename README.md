@@ -42,6 +42,10 @@ Download [DevOps Curriculum.pdf](https://github.com/igitsanjeev/DevOps_Curriculu
 - [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c) <sup>FREE</sup>
 - [Eloquent JavaScript, 3rd edition](https://eloquentjavascript.net/), Marjin Haverbeke <sup>FREE book</sup>
 - [Go by Example](https://gobyexample.com/) <sup>FREE</sup>
+- [Golang Tutorial for Beginners](https://m.youtube.com/watch?v=YS4e4q9oBaU) (English Language) (Free)
+- Books/Docs/Code:
+    - [Practical Go Lessons](https://www.practical-go-lessons.com/) (English book for beginners)
+    - [Golang Tutorial](https://gobyexample.com/) (English book for beginners)
 
 ### 3. Learn Linux & Scripting
 
@@ -106,6 +110,10 @@ Download [DevOps Curriculum.pdf](https://github.com/igitsanjeev/DevOps_Curriculu
 - [Learning Ansible Basics](https://www.redhat.com/en/topics/automation/learning-ansible-tutorial)
 - [Get started with Red Hat Ansible](https://www.ansible.com/resources/get-started) <sup>FREE and PAID</sup>
 - [Mastering Ansible](https://www.udemy.com/course/mastering-ansible/) <sup>Udemy Course</sup>
+- [Ansible Tutorial](https://github.com/ahmadalibagheri/Ansible-tutorial) (Sample Traning Code)
+- [Ansible: From Beginner to Pro](https://www.amazon.com/Ansible-Beginner-Pro-Michael-Heap/dp/1484216601/ref=sr_1_19) (Beginner Book)
+- [Ansible for DevOps](https://www.amazon.com/Ansible-DevOps-Server-configuration-management/dp/0986393428/ref=sr_1_4) (Advanced Book)
+- [Getting Start With Ansible](https://www.youtube.com/watch?v=3RiVKs8GHYQ&list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70) (Beginner Video)
 - [Learn Chef](https://learn.chef.io/) <sup>FREE</sup>
 
 ### 9. Learn CI/CD
