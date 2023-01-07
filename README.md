@@ -1,16 +1,16 @@
 # DevOps Curriculum
 
-This is a step by step guide on how to become a DevOps engineer, with links to relevant learning resources.
+This is a step by step guide on how to become a DevOps Engineer, with links to relevant learning resources.
 
 ![devops tools](https://user-images.githubusercontent.com/24714925/211159084-f3a3a476-f71d-4a44-95b3-30399e1c97fe.png)
 
 ## Disclaimer
 
-> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hype and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hype and trendy does not always mean best suited for the job.
+> The purpose of this DevOps Curriculum is to give you an idea about the landscape. This curriculum will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hype and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hype and trendy does not always mean best suited for the job.
 
-## Give a Star! :star:
+## Give a :star:
 
-If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+If you like or following this project to learn or start your solution, please give it a star. Thanks!
 
 ![DevOps Curriculum](https://user-images.githubusercontent.com/24714925/211159215-caa6c59e-24e6-45d0-9a30-9c4a182f2625.png)
 
@@ -156,7 +156,9 @@ Download [DevOps Curriculum.pdf](https://github.com/igitsanjeev/DevOps_Curriculu
 - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592), Gene Kim, Kevin Behr, George Spafford <sup>Book</sup>
 - [Site Reliability Engineering](https://sre.google/books/), Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy <sup>Book</sup>
 
-![DevOps books](DevOpsBooks.jpg)
+
+![DevOpsBooks](https://user-images.githubusercontent.com/24714925/211160569-35acd715-f6bf-499e-a911-084d73a65502.jpg)
+
 
 ## Wrap Up
 
