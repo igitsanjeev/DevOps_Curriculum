@@ -2,7 +2,7 @@
 
 This is a step by step guide on how to become a DevOps engineer, with links to relevant learning resources.
 
-![DevOps Curriculum](devops tools.png)
+! [DevOps Curriculum](devops tools.png)
 
 ## Disclaimer
 
