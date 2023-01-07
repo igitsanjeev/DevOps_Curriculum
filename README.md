@@ -1,12 +1,13 @@
 # DevOps Curriculum
 
-This is a step by step guide on how to become a DevOps Engineer, with links to relevant learning resources.
+This is a complete guide which help you a lot to become a DevOps Engineer, with links to relevant learning resources.
 
-![devops tools](https://user-images.githubusercontent.com/24714925/211159084-f3a3a476-f71d-4a44-95b3-30399e1c97fe.png)
+![DevOps_roadmap](https://user-images.githubusercontent.com/24714925/211165515-a117b80e-68b8-4dc9-a086-43aeefbfd2a9.png)
 
-## Disclaimer
 
-> The purpose of this DevOps Curriculum is to give you an idea about the landscape. This curriculum will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hype and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hype and trendy does not always mean best suited for the job.
+## What is DevOps
+
+> DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary with Agile software development; several DevOps aspects came from the Agile methodology.
 
 ## Give a :star:
 
@@ -19,7 +20,8 @@ Download [DevOps Curriculum No Background](https://user-images.githubusercontent
 
 ## PDF version
 
-![pdfversion](https://user-images.githubusercontent.com/24714925/211159490-c14d262b-aa30-4e84-b517-567d68c3d66c.png)
+<img width="649" alt="Devops_start" src="https://user-images.githubusercontent.com/24714925/211165535-42662338-646b-47ab-97b5-f7192130cad8.png">
+
 Download [DevOps Curriculum.pdf](https://github.com/igitsanjeev/DevOps_Curriculum/files/10366667/DevOps.Curriculum.pdf).
 
 ## Learning resources for DevOps Engineers (mostly free)
