@@ -182,7 +182,3 @@ If you think the curriculum can be improved, please do open a PR with any update
 ## License
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
-## Authors
-
-- Sanjeev Kumar
